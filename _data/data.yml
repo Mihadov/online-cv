@@ -61,39 +61,33 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    מפתח תוכנה
+Senior Microsoft Dynamics 365 Developer with 16 years of hands-on experience designing, 
+customizing and integrating enterprise CRM solutions. Since 2016 I have led Dynamics 365 development 
+for the Israel Courts Administration, modernising legacy CRM 4.0/2011 systems, introducing Git-based 
+workflows and streamlining case-management for thousands of end-users. Deep expertise in C#, .NET, 
+Dataverse, SQL Server, HTML5/JavaScript and SOA integrations; certified Microsoft Specialist in 
+Extending Dynamics CRM 2013, Customization & Configuration (2010/2013) and MCP. 
+Known for clean architecture, performance tuning and mentoring teams to deliver secure, 
+maintainable code that powers mission-critical government processes.
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: MCPD
+    university: Ramat-Gan College
+    time: 2000 - 2001
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+      Microsoft Certified Professional Developer - Course
+  - degree: Advanced SQL
+    university: Specter
+    time: 2022
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-
+      
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Senior Dynamics 365 Developer
+    time: 2016 - Present
+    company: Israel Courts Administration
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
