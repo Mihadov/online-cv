@@ -8,24 +8,24 @@ sidebar:
   education: false # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: מיכאל גור - Michael Goor
+  name: מיכאל גור  Michael Goor
   tagline: MS Dynamics 365 Developer
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: mihadov@gmail.com
-  phone: 054 5766783
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+  phone: 054-5766783
+  timezone: #America/Cancun  Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship: Israeli
+  website: https://mihadov.github.io/online-cv/ # Include the full website URL, including "http://" or "https://".
   linkedin: mihadov
   xing: 
   github: mihadov
   telegram: mihadov
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  bluesky: # '@jekyllrb.bsky.social' # Specify your full Bluesky handle
+  twitter: '@mihadov'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -49,27 +49,19 @@ sidebar:
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Smoking meat
       link:
 
 
-    - item: Snowboarding
+    - item: Gadgets
       link:
 
-
-    - item: Cooking
-      link:
 
 
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    מפתח תוכנה
 education:
   title: Education
   info:
@@ -283,4 +275,3 @@ skills:
     level: 60%
 
 footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
