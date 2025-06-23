@@ -103,22 +103,22 @@ experiences:
     company: Emuse
     details: |
 
-    role: Dynamics CRM 4.0 Developer
+  - role: Dynamics CRM 4.0 Developer
     time: 2011 - 2012
     company: Elad Syatems
     details: |
       
-    role: Dynamics CRM 4.0 Developer
+  - role: Dynamics CRM 4.0 Developer
     time: 2010 - 2011
     company: E4D Solutions
     details: |
       
-    role: Dot.Net Developer
+  - role: Dot.Net Developer
     time: 2009 - 2011
     company: BCC Communications
     details: |
 
-    role: Dot.Net Developer
+  - role: Dot.Net Developer
     time: 2008 - 2009
     company: Powerkink Software
     details: |
@@ -134,7 +134,7 @@ certifications:
     credentialurl: #www.google.com
     credentialname: #Google
     details: |
-    Microsoft Specialist: Extending Microsoft Dynamics CRM 2013
+      Microsoft Specialist: Extending Microsoft Dynamics CRM 2013
 
   - name: Microsoft Dynamics Customization and Configuration in CRM 2013
     start: 2014
@@ -144,7 +144,7 @@ certifications:
     credentialurl: #www.github.com
     credentialname: #Github
     details: |
-   Microsoft Specialist: Microsoft Dynamics Customization and Configuration in CRM 2013
+      Microsoft Specialist: Microsoft Dynamics Customization and Configuration in CRM 2013
 
 
 projects:
