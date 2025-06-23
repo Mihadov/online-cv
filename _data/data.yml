@@ -127,7 +127,7 @@ certifications:
   title: Certifications
   list:
   - name: Extending Microsoft Dynamics CRM 2013
-    #start: 2014
+    start: 2014
     end: 2014
     organization: Microsoft
     credentialid: IA2448-EF7112
@@ -137,7 +137,7 @@ certifications:
     Microsoft Specialist: Extending Microsoft Dynamics CRM 2013
 
   - name: Microsoft Dynamics Customization and Configuration in CRM 2013
-    #start: 2019
+    start: 2014
     end: 2014
     organization: Microsoft
     credentialid: DF7L8A-0D4569
