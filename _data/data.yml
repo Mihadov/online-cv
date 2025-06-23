@@ -61,14 +61,14 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-Senior Microsoft Dynamics 365 Developer with 16 years of hands-on experience designing, 
-customizing and integrating enterprise CRM solutions. Since 2016 I have led Dynamics 365 development 
-for the Israel Courts Administration, modernising legacy CRM 4.0/2011 systems, introducing Git-based 
-workflows and streamlining case-management for thousands of end-users. Deep expertise in C#, .NET, 
-Dataverse, SQL Server, HTML5/JavaScript and SOA integrations; certified Microsoft Specialist in 
-Extending Dynamics CRM 2013, Customization & Configuration (2010/2013) and MCP. 
-Known for clean architecture, performance tuning and mentoring teams to deliver secure, 
-maintainable code that powers mission-critical government processes.
+    Senior Microsoft Dynamics 365 Developer with 16 years of hands-on experience designing, 
+    customizing and integrating enterprise CRM solutions. Since 2016 I have led Dynamics 365 development 
+    for the Israel Courts Administration, modernising legacy CRM 4.0/2011 systems, introducing Git-based 
+    workflows and streamlining case-management for thousands of end-users. Deep expertise in C#, .NET, 
+    Dataverse, SQL Server, HTML5/JavaScript and SOA integrations; certified Microsoft Specialist in 
+    Extending Dynamics CRM 2013, Customization & Configuration (2010/2013) and MCP. 
+    Known for clean architecture, performance tuning and mentoring teams to deliver secure, 
+    maintainable code that powers mission-critical government processes.
 education:
   title: Education
   info:
