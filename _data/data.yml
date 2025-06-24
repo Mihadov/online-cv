@@ -140,6 +140,33 @@ experiences:
 certifications:
   title: Certifications
   list:
+  - name:  C# Mastering Course For Intermediates
+    start: 2024
+    end: 2024
+    organization: Udemy
+    credentialid: 
+    credentialurl: https://www.udemy.com/certificate/UC-c0031481-4075-4fae-ab38-f0dcf9d006b2/
+    credentialname: Udemy
+    details: |
+
+  - name:  Designing and Building Custom Apps using Dynamics 365
+    start: 2020
+    end: 2020
+    organization: Udemy
+    credentialid: 
+    credentialurl: https://www.udemy.com/certificate/UC-bf167c9b-5e15-4dfa-bc53-448a045f429a/
+    credentialname: Udemy
+    details: |
+
+  - name: Practical JavaScript (Advanced)
+    start: 2021
+    end: 2021
+    organization: Udemy
+    credentialid: 
+    credentialurl: https://www.udemy.com/certificate/UC-49dfbca1-e3f8-49f3-8dcd-72115cb383d4/
+    credentialname: Udemy
+    details: |
+
   - name: Extending Microsoft Dynamics CRM 2013
     start: 2014
     end: 2014
