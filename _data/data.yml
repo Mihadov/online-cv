@@ -10,13 +10,13 @@ sidebar:
   # Profile information
   name: מיכאל גור  Michael Goor
   tagline: MS Dynamics 365 Developer
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: 1.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: mihadov@gmail.com
   phone: 054-5766783
   timezone: #America/Cancun  Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship: Israeli
+  citizenship: Israeli citizenship
   website: https://mihadov.github.io/online-cv/ # Include the full website URL, including "http://" or "https://".
   linkedin: mihadov
   xing: 
@@ -49,11 +49,11 @@ sidebar:
   interests:
     title: Interests
     info:
-    - item: Smoking meat
-      link:
-    - item: Gadgets
-      link:
     - item: AI Agents / ChatGPT / MJ
+      link:
+    - item: Gadgets / Smart Home
+      link:
+    - item: Smoking meat
       link:
 
 
@@ -75,13 +75,13 @@ education:
     university: Ramat-Gan College
     time: 2008 - 2009
     details: |
-      קורס Microsoft Certified Professional Developer - פיתוח ב דוט-נט
+      Microsoft Certified Professional Developer course - dot.net development
 
   - degree: MCITP - Database Developer
     university: Specter
     time: 2010
     details: |
-     לימודי תעודה למפתחי SQL Server
+     SQL Server course for developers
 
       
 experiences:
@@ -91,7 +91,20 @@ experiences:
     time: 2016 - Present
     company: Israel Courts Administration
     details: |
-      
+      Full-cycle Microsoft Dynamics 365 development, including:
+      - Design and implementation of synchronous / asynchronous plugins
+      - Client-side JavaScript: command-bar buttons, form logic, Web API integrations
+      - Creation of external integration services (REST / SOAP)
+      - Console applications for scheduled and batch processes
+      - Data-import pipelines from Excel and third-party systems
+      - Design and development of SSRS reports
+      - Direct performance tuning and troubleshooting in Microsoft SQL Server
+      - ASP.NET MVC portals with secure one-way data-synchronisation mechanisms
+      - Source-control workflows with Git / TFS
+      - Power-user of XrmToolBox and companion utilities
+
+
+
   - role: Dynamics CRM Developer
     time: 2014 - 2016
     company: Taldor
@@ -147,17 +160,22 @@ certifications:
 
 
 projects:
-  title: Projects
+  title: Side Projects
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    
   assignments:
-  - title: Velocity
+  - title: EV Charger Notifier – Telegram Bot (C#, Azure SQL)
     link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    tagline: "Built an end-to-end Telegram bot that automatically alerts electric-vehicle owners 
+    when charging is complete and politely requests them to free the parking spot. 
+    Implemented with the official Telegram Bot API, C#, and Azure SQL for state management; 
+    supports real-time push notifications"
 
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+  - title: Mini Card-Flip Game (HTML, jQuery)
+    link: "https://mihadov.github.io/avatar-cards/"
+    tagline: "Developed a lightweight browser game with smooth CSS-based flip animations and a fully 
+    responsive layout, delivering the same polished experience on mobile and desktop—all using plain HTML and jQuery. 
+    Added a one-click share feature so players can instantly invite friends and spread the game."
 
   - title: Tempo
     link: "#"
@@ -196,7 +214,7 @@ recommendations:
   - person: Eliran Galon
     email: #perezyareli@example.com
     phone: ינתן לפי דרישה
-    role: Projec Manager and Team Lead at Court Administartion
+    role: Project Manager and Team Lead at Court Administartion
     recommendation: |
       
 
