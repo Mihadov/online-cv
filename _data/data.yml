@@ -93,7 +93,7 @@ experiences:
     details: |
       Full-cycle Microsoft Dynamics 365 development, including:
       - Design and implementation of synchronous / asynchronous plugins
-      - Client-side JavaScript: command-bar buttons, form logic, Web API integrations
+      - Client-side JavaScript: command-bar buttons, form logic, Web API integrations, ajax
       - Creation of external integration services (REST / SOAP)
       - Console applications for scheduled and batch processes
       - Data-import pipelines from Excel and third-party systems
@@ -102,6 +102,8 @@ experiences:
       - ASP.NET MVC portals with secure one-way data-synchronisation mechanisms
       - Source-control workflows with Git / TFS
       - Power-user of XrmToolBox and companion utilities
+      - SharePoint integration
+      - System customization & configuration
 
 
 
@@ -112,12 +114,12 @@ experiences:
       
   - role: Dynamics CRM Developer
     time: 2012 - 2014
-    company: Emuse
+    company: Emuse Israel
     details: |
 
   - role: Dynamics CRM 4.0 Developer
     time: 2011 - 2012
-    company: Elad Syatems
+    company: Elad Systems
     details: |
       
   - role: Dynamics CRM 4.0 Developer
@@ -177,43 +179,19 @@ projects:
     responsive layout, delivering the same polished experience on mobile and desktop—all using plain HTML and jQuery. 
     Added a one-click share feature so players can instantly invite friends and spread the game."
 
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  - title: DiraBeAnahaCalculator (HTML, JS)
+    link: "#https://mihadov.github.io/DiraBeAnahaCalculator/"
+    tagline: "Dynamic payment schedule table covering the first three years of an apartment-construction 
+    project under Israel’s Dira Be-Hanacha (discounted-housing) programme."
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-    
+  
 
 recommendations:
   title: Recommendations
   list:
   - person: Eliran Galon
-    email: #perezyareli@example.com
-    phone: ינתן לפי דרישה
+    email: Email available upon request
+    phone: Phone available upon request
     role: Project Manager and Team Lead at Court Administartion
     recommendation: |
       
