@@ -32,7 +32,7 @@ sidebar:
   mastodon: # Please include your full Mastodon link here.
   hackerrank: # Please provide your HackerRank username.
   leetcode: # Please provide your LeetCode username.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  pdf: https://mihadov.github.io/online-cv/assets/files/Michael%20Goor%20Resume%203.pdf
 
   languages:
     title: Languages
