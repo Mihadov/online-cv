@@ -69,8 +69,8 @@ career-profile:
     Known for clean architecture, performance tuning and mentoring teams to deliver secure, 
     maintainable code that powers mission-critical government processes.
 
-    🦽 Recognized disability (wheelchair user); 
-    eligible for Israel Equal Employment Quota (§9B – 3 %).
+    🦽 Recognized disability (wheelchair user)
+
 education:
   title: Education
   info:
@@ -107,7 +107,7 @@ experiences:
       - Power-user of XrmToolBox and companion utilities
       - SharePoint integration
       - System customization & configuration
-
+      - Power Automate (Flows), Power Apps
 
 
   - role: Dynamics CRM Developer
