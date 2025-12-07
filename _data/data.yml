@@ -5,16 +5,17 @@
 sidebar:
   position: left # position of the sidebar : left or right
   about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: false # set to False if you want education in main section instead of in sidebar
+  education: true # set to False if you want education in main section instead of in sidebar
 
   # Profile information
   name: מיכאל גור  Michael Goor
-  tagline: MS Dynamics 365 Developer
+  tagline: Microsoft Dynamics 365 / .NET Developer
   avatar: 1.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: mihadov@gmail.com
   phone: 054-5766783
+  whatsapp: 972545766783
   timezone: #America/Cancun  Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship: Israeli citizenship
   website: https://mihadov.github.io/online-cv/ # Include the full website URL, including "http://" or "https://".
@@ -32,7 +33,8 @@ sidebar:
   mastodon: # Please include your full Mastodon link here.
   hackerrank: # Please provide your HackerRank username.
   leetcode: # Please provide your LeetCode username.
-  pdf: https://mihadov.github.io/online-cv/assets/files/Michael%20Goor%20Resume%203.pdf
+  pdf: assets/files/Michael-Goor-Resume-D365-Dev.pdf
+
 
   languages:
     title: Languages
@@ -53,32 +55,31 @@ sidebar:
       link:
     - item: Gadgets / Smart Home
       link:
-    - item: Smoking meat
+    - item: BBQ & low-and-slow cooking
       link:
 
 
 career-profile:
   title: Career Summary
   summary: |
-    Senior Microsoft Dynamics 365 Developer with 16 years of hands-on experience designing, 
+    Senior Microsoft Dynamics 365 / Power Platform Developer with 16+ years of hands-on experience designing, 
     customizing and integrating enterprise CRM solutions. Since 2016 I have led Dynamics 365 development 
-    for the Israel Courts Administration, modernising legacy CRM 4.0/2011 systems, introducing Git-based 
+    for the Israel Courts Administration, building heavy systems from vanilla, introducing Git-based 
     workflows and streamlining case-management for thousands of end-users. Deep expertise in C#, .NET, 
     Dataverse, SQL Server, HTML5/JavaScript; certified Microsoft Specialist in 
     Extending Dynamics CRM 2013, Customization & Configuration (2013). 
     Known for clean architecture, performance tuning and mentoring teams to deliver secure, 
     maintainable code that powers mission-critical government processes.
-
-    🦽 Recognized disability (wheelchair user)
+    Comfortable using AI coding assistants to accelerate routine tasks while keeping architecture and critical code under human control.
 
 education:
-  title: Education
+  title: Professional Training
   info:
   - degree: MCPD
     university: Ramat-Gan College
     time: 2008 - 2009
     details: |
-      Microsoft Certified Professional Developer course - dot.net development
+      Microsoft Certified Professional Developer course - .NET development
 
   - degree: MCITP - Database Developer
     university: Specter
@@ -91,14 +92,15 @@ experiences:
   title: Experiences
   info:
   - role: Senior Dynamics 365 Developer
-    time: 2016 - Present
+    time: 2016 - 2025
     company: Israel Courts Administration
     details: |
       Full-cycle Microsoft Dynamics 365 development, including:
-      - Design and implementation of synchronous / asynchronous plugins
-      - Client-side JavaScript: command-bar buttons, form logic, Web API integrations, ajax
+      - Design and implementation of synchronous / asynchronous plugins with 
+      - Power Automate (Flows), Power Apps, Workflows, Actions
+      - Client-side JavaScript: command-bar buttons, form logic, Web API integrations, AJAX
       - Creation of external integration services (REST / SOAP)
-      - Console applications for scheduled and batch processes
+      - Console C# applications for scheduled and batch processes
       - Data-import pipelines from Excel and third-party systems
       - Design and development of SSRS reports
       - Direct performance tuning and troubleshooting in Microsoft SQL Server
@@ -107,9 +109,7 @@ experiences:
       - Power-user of XrmToolBox and companion utilities
       - SharePoint integration
       - System customization & configuration
-      - Power Automate (Flows), Power Apps
-
-
+  
   - role: Dynamics CRM Developer
     time: 2014 - 2016
     company: Taldor
@@ -130,14 +130,14 @@ experiences:
     company: E4D Solutions
     details: |
       
-  - role: Dot.Net Developer
+  - role: .NET Developer
     time: 2009 - 2011
     company: BCC Communications
     details: |
 
-  - role: Dot.Net Developer
+  - role: .NET Developer
     time: 2008 - 2009
-    company: Powerkink Software
+    company: PowerLink Software
     details: |
 
 certifications:
@@ -199,22 +199,33 @@ projects:
   - title: EV Charger Notifier – Telegram Bot (C#, Azure SQL)
     link: "#hook"
     tagline: "Built an end-to-end Telegram bot that automatically alerts electric-vehicle owners 
-    when charging is complete and politely requests them to free the parking spot. 
-    Implemented with the official Telegram Bot API, C#, and Azure SQL for state management; 
-    supports real-time push notifications"
+     when charging is complete and politely requests them to free the parking spot. 
+     Implemented with the official Telegram Bot API, C#, and Azure SQL for state management; 
+     supports real-time push notifications"
 
   - title: Mini Card-Flip Game (HTML, jQuery)
     link: "https://mihadov.github.io/avatar-cards/"
     tagline: "Developed a lightweight browser game with smooth CSS-based flip animations and a fully 
-    responsive layout, delivering the same polished experience on mobile and desktop—all using plain HTML and jQuery. 
-    Added a one-click share feature so players can instantly invite friends and spread the game."
+     responsive layout, delivering the same polished experience on mobile and desktop—all using plain HTML and jQuery. 
+     Added a one-click share feature so players can instantly invite friends and spread the game."
 
   - title: DiraBeAnahaCalculator (HTML, JS)
     link: "#https://mihadov.github.io/DiraBeAnahaCalculator/"
     tagline: "Dynamic payment schedule table covering the first three years of an apartment-construction 
-    project under Israel’s Dira Be-Hanacha (discounted-housing) programme."
+     project under Israel’s Dira Be-Hanacha (discounted-housing) programme."
 
-  
+publications:
+  title: Professional Highlights
+  intro: |
+
+  papers:
+  - title: Write clean, maintainable C# and JavaScript code following SOLID and DRY principles
+  - title: Own features end-to-end - from clarifying requirements to deployment and production support
+  - title: Use AI tools (Copilot, ChatGPT) to speed up development while keeping full control over design and quality
+  - title: Perform code reviews and mentor other developers on best practices
+  - title: Confident in debugging and performance tuning
+  - title: Strong experience with integrations, APIs and data migration in enterprise environments
+
 
 recommendations:
   title: Recommendations
@@ -224,29 +235,5 @@ recommendations:
     phone: Phone available upon request
     role: Project Manager and Team Lead at Court Administration
     recommendation: |
-      
-
-
-skills:
-  title: Skills &amp; Proficiency
-
-  toolset:
-  - name: Microsoft Dynamics 365
-    level: 98%
-
-  - name: Javascript & jQuery
-    level: 95%
-
-  - name: C#
-    level: 95%
-
-  - name: HTML5 & CSS
-    level: 90%
-
-  - name: SQL Server
-    level: 90%
-
-  - name: TFS / Git
-    level: 90%
 
 footer: >
